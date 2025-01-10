@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MPQDumper.cpp
+D:\sm_az\Tool\MPQDumper\MPQDumper\MPQDumper.cpp(34,28): warning C4311: “reinterpret_cast”: 从“PBYTE”到“DWORD”的指针截断
+  (编译源文件“/MPQDumper.cpp”)
+  
+D:\sm_az\Tool\MPQDumper\MPQDumper\MPQDumper.cpp(34,28): warning C4302: “reinterpret_cast”: 从“PBYTE”到“DWORD”截断
+  (编译源文件“/MPQDumper.cpp”)
+  
+D:\sm_az\Tool\MPQDumper\MPQDumper\MPQDumper.cpp(56,45): warning C4311: “reinterpret_cast”: 从“PVOID”到“DWORD”的指针截断
+  (编译源文件“/MPQDumper.cpp”)
+  
+D:\sm_az\Tool\MPQDumper\MPQDumper\MPQDumper.cpp(56,45): warning C4302: “reinterpret_cast”: 从“PVOID”到“DWORD”截断
+  (编译源文件“/MPQDumper.cpp”)
+  
+    正在创建库 D:\sm_az\Tool\MPQDumper\MPQDumper\x64\Release\MPQDumper.lib 和对象 D:\sm_az\Tool\MPQDumper\MPQDumper\x64\Release\MPQDumper.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 149 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MPQDumper.vcxproj -> D:\sm_az\Tool\MPQDumper\MPQDumper\x64\Release\MPQDumper.dll
